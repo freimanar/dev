@@ -1,6 +1,6 @@
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetHistoryRequest
-from to from
+from to fromdd
 # Учетные данные для подключения к Telegram
 api_id = 'Ваш_api_id'
 api_hash = 'Ваш_api_hash'
