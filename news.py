@@ -1,6 +1,5 @@
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetHistoryRequest
-from telethon.errors import PeerIdInvalidError
 
 # Учетные данные для подключения к Telegram
 api_id = 'Ваш_api_id'
